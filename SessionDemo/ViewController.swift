@@ -25,5 +25,8 @@ class ViewController: UIViewController {
         
     }
     
+    func newBranchMethod() {
+        
+    }
 }
 
